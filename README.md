@@ -6,6 +6,7 @@ Film-Search is a web application designed to manage basic search through films g
 
 ## Features
 
+
 - Create, Read, Update, and Delete operations for searching films and shows
 - Responsive design with Tailwind CSS
 - Interactive UI built with React
@@ -18,6 +19,13 @@ Film-Search is a web application designed to manage basic search through films g
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **API:** RESTful API
+
+## Image
+
+<img width="1200" alt="image" src="https://github.com/Thomas9149/Film-Search-Website/assets/170985980/e6ddfb1f-033d-49ac-8299-3818cb919510">
+<img width="1200" alt="image" src="https://github.com/Thomas9149/Film-Search-Website/assets/170985980/a9cdddcc-b8a4-40c6-a95e-6498fe383570">
+
+
 
 ## Installation
 
