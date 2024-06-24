@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 
 mongoose
-  .connect("mongodb://localhost:27017/food-ordering")
+  .connect("mongodb+srv://itzreddragon99:%406NzD9yU$HDfd!c@cluster0.pk73tqr.mongodb.net/film-search?retryWrites=true&w=majority&appName=Cluster0")
 
   .then(async () => {
     console.log("Connected to MongoDB");
